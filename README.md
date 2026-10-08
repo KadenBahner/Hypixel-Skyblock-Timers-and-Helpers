@@ -9,7 +9,7 @@ completes.
 
 - - **Java 25** — [Download Eclipse Temurin 25](https://adoptium.net/temurin/releases/?version=25)
 - A free [Hypixel developer API key](https://developer.hypixel.net/)
-- DOWNLOAD FROM RELEASES ON RIGHT
+- Download updated releases on right
 ## Setup
 
 1. Open `secrets.properties`
