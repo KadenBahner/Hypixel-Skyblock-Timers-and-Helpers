@@ -22,3 +22,28 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Secrets 
+secrets.properties
+*.token
+.env
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+build/
+target/
+
+# Java
+*.class
+
+# Discord / JDA
+libs/*.jar
+!libs/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
