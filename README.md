@@ -25,10 +25,7 @@ completes.
 ## Profit tracking notes
 
 - Profit is calculated the moment a forge timer completes, using live
-  Bazaar prices. It's a point-in-time snapshot, not a realized gain.
-- If prices are unavailable when a timer completes (offline, API down),
-  the record is queued and applied as soon as prices load. Pending records
-  survive restarts.
+  Bazaar prices.
 - Use the **Profits** screen to see pending count and per-recipe totals.
 
 ## Features
