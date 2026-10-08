@@ -14,11 +14,7 @@ completes.
 
 1. Open `secrets.properties`
 2. Paste your Hypixel API key into it
-3. Build the JAR from Eclipse:
-   - Right-click the project → Export → Runnable JAR file
-   - Launch configuration: **HypixelTimerApp**
-   - Export destination: `HypixelTimerApp.jar` in the project root
-   - Library handling: **Extract required libraries into generated JAR**
+3. Put `secrets.properties` into the same folder as the Jar file
 4. Launch it:
    - Or directly: `java -jar HypixelTimerApp.jar`
 
